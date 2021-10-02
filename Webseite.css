@@ -1,0 +1,70 @@
+html.webseite {
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(93, 94, 95)); 
+    background-repeat: no-repeat; 
+}
+header.Headerlogo 
+{
+    height: 255px; 
+    background-image: url(../stylesheets/TravelThroughGalaxyLogo.ENDVERSION.png); 
+    background-repeat: no-repeat; 
+    background-position: center;  
+    padding-bottom: 0px; 
+    text-align: right; 
+    font-family: Arial; 
+    font-size: 22px; 
+    text-decoration: none; 
+} 
+nav 
+{
+    border-top-style: solid; 
+    border-top-color: black; 
+    border-top-width: 3px; 
+    border-bottom-style: solid; 
+    border-bottom-color: black; 
+    border-bottom-width: 3px; 
+    border-left-style: solid; 
+    border-left-color: black; 
+    border-left-width: 3px; 
+    border-right-style: solid; 
+    border-right-color: black; 
+    border-right-width: 3px; 
+    border-radius: 15px; 
+    overflow: hidden; 
+    text-align: center; 
+    font-size: 30px; 
+    text-decoration: none; 
+    font-family: Arial; 
+    font-weight: bold; 
+    color: red; 
+    background-image: radial-gradient(lightblue, rgb(99, 99, 185))
+}
+section h1 {
+    font-weight: bold; 
+    font-size: 40px; 
+    text-align: center; 
+    font-family: Arial; 
+    text-decoration: underline; 
+    color: orangered; 
+}
+p.einleitendegedanken {
+    font-size: 29px; 
+    font-family: Arial; 
+    text-decoration: none; 
+    color: black; 
+}
+section.Impressum {
+    border-top-style: solid; 
+    border-top-color: black; 
+    border-top-width: 1px; 
+}
+section.Impressum th {
+    width: 500px; 
+    text-align: center; 
+    padding-top: 25px; 
+    padding-bottom: 50px; 
+    font-size: 17px; 
+    text-decoration: none; 
+    font-weight: none; 
+    font-style: none; 
+    font-family: Arial; 
+}
